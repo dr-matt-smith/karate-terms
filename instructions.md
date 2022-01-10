@@ -2,6 +2,9 @@
 
 ## in Dojo
 
+- SENSEI-NI-REI
+  - bow to the teacher
+
 - YOI (yoy - 'oy' as in 'boy')
   - Ready (both mentally and physically)
 
