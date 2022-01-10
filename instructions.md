@@ -1,20 +1,27 @@
-Karate Terms - Instructions
+# Karate Terms - Instructions
+
+## in Dojo
+
+- YOI (yoy - 'oy' as in 'boy')
+  - Ready (both mentally and physically)
+
+- MAWATE (mawa-tay)
+  - Turn (typically GEDAN BARAI)
 
 - YAME (ya-may)
-  - Return to starting position (typically hachiji-dachi)
+  - Return to starting position (typically HACHIJI DACHI)
+
+- MOKUSO (mok-su)
+  - Close the eyes and meditate (in kneeling position)
+
+
+## in sparring
+
+- MATTE (mat-tay)
+  - Wait (pause during combat)
 
 - HAJIME (hajee-may)
   - Begin
-
-KAMAE: Get into position, prepare.
-
-MOKUSO: Close the eyes and meditate.
-
-MATTE (ma-tay): Wait.
-
-- MAWATE (mawa-tay)
-  - Turn (typically GEDAN BARAI: ![image](https://user-images.githubusercontent.com/1216855/148740893-7e2c3d3d-c3ae-4885-a116-8febeb5b6297.png)
+  
 
 
-YOI (yoh-ee): Ready (both mentally and physically)
-![image](https://user-images.githubusercontent.com/1216855/148740758-e20cb0da-041b-41dc-88a9-e1adae4d1e62.png)
