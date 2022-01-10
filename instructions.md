@@ -15,7 +15,7 @@
   - Return to starting position (typically HACHIJI DACHI)
 
 - MOKUSO (mok-su)
-  - Close the eyes and meditate (in kneeling position)
+  - Close the eyes and meditate (in SEIZA kneeling position)
 
 
 ## in sparring
